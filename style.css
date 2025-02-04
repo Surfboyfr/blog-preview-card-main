@@ -1,0 +1,57 @@
+*{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+body{
+   background-color: hsl(47, 88%, 63%);
+}
+.container{
+   margin: 50px auto;
+   width: 350px;
+   height: 100%;
+   box-shadow: 10px 10px 10px 10px   ;
+   border-radius: 15px;
+   background-color: #fff;
+   padding: 1.5rem;
+}
+#code-img{
+   width: 100%;
+   border-radius: 15px;
+   margin-bottom: 1rem;
+}
+.learning{
+   background-color: hsl(47, 88%, 63%);
+   padding: .4rem .6rem;
+   border-radius: 5px;
+   font-weight: 900;
+   
+}
+h4{
+   margin-top: 1rem;
+   font-weight: 200;
+   margin-bottom: 1rem;
+
+}
+h2{
+   font-weight: 900;
+   margin-bottom: 1rem;
+}
+p{
+   color: hsl(0, 0%, 42%);
+   line-height: 22px;
+   margin-bottom: 1rem;
+}
+.icon{
+   display: flex;
+}
+#photo{
+   width: 30px;
+   margin-right: 1rem;
+}
+#name{
+   display: inline;
+   margin-bottom: 10px;
+   color: black;
+   font-weight: 600;
+}
