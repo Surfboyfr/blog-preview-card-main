@@ -63,3 +63,10 @@ p{
    color: black;
    font-weight: 600;
 }
+
+/* responsive design */
+@media screen and (max-width: 768px){
+   .container{
+      width: 300px;
+   }
+}
